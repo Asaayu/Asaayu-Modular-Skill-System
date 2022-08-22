@@ -1,6 +1,6 @@
 -- Information about this specific resource
 name "asaayu_skill_system_example"
-description "An example skill that works with Asaayu's Modular Skill System. Avaliable @ https://asaayu.tebex.io/"
+description "An example skill that works with Asaayu's GTAO Skill System & Framework. Avaliable @ https://asaayu.tebex.io/"
 version '1.0.0'
 
 -- Files that escrow will ignore
